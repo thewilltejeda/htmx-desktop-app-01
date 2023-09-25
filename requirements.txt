@@ -1,0 +1,5 @@
+Flask==2.3.3
+pywebview==4.3.3
+pyinstaller==6.0.0
+Pillow==10.0.1
+yfinance==0.2.30
